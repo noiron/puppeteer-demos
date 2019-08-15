@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noiron/puppeteer-demos.git",
+  "author": "wu kai <wukai2048@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
