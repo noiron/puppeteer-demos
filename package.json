@@ -5,6 +5,13 @@
   "repository": "https://github.com/noiron/puppeteer-demos.git",
   "author": "wu kai <wukai2048@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "01": "node 01/index.js",
+    "02": "node 02/index.js",
+    "03": "node 03/index.js",
+    "04": "node 04/index.js",
+    "05": "node 05/index.js"
+  },
   "dependencies": {
     "puppeteer": "^1.19.0"
   }

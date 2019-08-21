@@ -1,7 +1,13 @@
+# Puppeteer Demos
+
 ## 项目说明
 
 本项目中存放了一些使用 Puppeteer 的 demo。
 
+
+## 项目结构
+
+每一个以数字命名的文件夹均为一个独立的 demo。可运行 `node 01/index.js` 查看，或运行 `npm run 01` 命令。
 
 
 ## Demo 列表
