@@ -11,7 +11,8 @@
     "03": "node 03/index.js",
     "04": "node 04/index.js",
     "05": "node 05/index.js",
-    "06": "node 06/index.js"
+    "06": "node 06/index.js",
+    "07": "node 07/index.js"
   },
   "dependencies": {
     "jsonfile": "^5.0.0",
